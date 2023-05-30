@@ -1,17 +1,22 @@
 # Welcome to Visa For Lisa
-***
+Welcome to My Visa For Lisa
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+What is the problem? And where is the challenge?
+
 
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?
+
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+How to install your project? npm install? make? make re?
 
 ## Usage
-TODO - How does it work?
+How does it work?
+I used a R2 score and an accuracy score
+
+
 ```
 ./my_project argument1 argument2
 ```
@@ -20,4 +25,4 @@ TODO - How does it work?
 
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+<span><img alt='Qwasar SV -- Software Engineering School's Logo src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
